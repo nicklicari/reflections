@@ -5,3 +5,11 @@ Q: When would you want to use a remote repository rather than keeping all your w
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
   A: I want to be able to decide whether to commit or not any in progress work, so as to determine whether the change is made public..
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  A1: A clone is a complete copy of a respository in a remote or secondary location. Changes committed can be pushed to the original repository.
+  
+  A2: A fork is a complete copy of a repository to another user account. Changes committed and pushed will only update the new 'fork', not the original repository.
+
+  A3: A branch is a new 'breadcrumb path' on a repositories master branch. Changes can be merged back to the master branch of whichever account it was branched off of.
