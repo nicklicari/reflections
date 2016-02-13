@@ -1,3 +1,5 @@
+## Questions and Answers from Lesson 2
+
 Q: What happens when you initialize a repository? Why do you need to do it?
 
   A: Git builds the framework / database for all of the metadata to be stored in.  Kind of like building a table structure in SQL, before adding any records/rows.

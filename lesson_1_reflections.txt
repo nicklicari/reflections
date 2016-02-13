@@ -1,3 +1,5 @@
+## Questions and Answers from Lesson 1
+
 Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
   A: I could see the changed lines of the two files in small bites to be able to review and locate the changes quickly.
