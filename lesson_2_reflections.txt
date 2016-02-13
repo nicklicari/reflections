@@ -11,4 +11,19 @@ Q: How is the staging area different from the working directory and the reposito
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
   A: I can revew the changes with git diff --staged
-  
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+  A: When changing language, appearance, or trying new features. It helps by grouping large changes together, rather than the highly specific commits.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+  A: The same way Doc Brown did - it visually represents the breadcrumbs in time that can be followed. 
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  A: They then carry the same history so that you can reference all of the changes together.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  A. Pros = fast, Cons = none for me :)
