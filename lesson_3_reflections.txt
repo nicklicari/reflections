@@ -17,3 +17,7 @@ Q: Describe the differences between forks, clones, and branches. When would you 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
   A: You are able to view the history of both copies, comparing and/or merging them before pushing to GitHub.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  A: I would create a shared folder on Dropbox, etc, and have multiple users edit the same files.  It would be easier to sync changes because they are automatic, but would not be specific, intentional changes with comments on what was done.
