@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+  A: Git builds the framework / database for all of the metadata to be stored in.  Kind of like building a table structure in SQL, before adding any records/rows.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  A: The staging area is kind of like a shopping cart at a grocery store. Repository is the check out aisle, and the shelves are working directory. You wander the store and put things you think you want to buy in your cart, but have to 'commit' to buying at the end.
+
