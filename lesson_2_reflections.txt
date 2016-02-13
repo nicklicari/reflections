@@ -8,3 +8,7 @@ Q: How is the staging area different from the working directory and the reposito
 
   A: The staging area is kind of like a shopping cart at a grocery store. Repository is the check out aisle, and the shelves are working directory. You wander the store and put things you think you want to buy in your cart, but have to 'commit' to buying at the end.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+  A: I can revew the changes with git diff --staged
+  
