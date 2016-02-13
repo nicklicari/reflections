@@ -13,3 +13,7 @@ Q: Describe the differences between forks, clones, and branches. When would you 
   A2: A fork is a complete copy of a repository to another user account. Changes committed and pushed will only update the new 'fork', not the original repository.
 
   A3: A branch is a new 'breadcrumb path' on a repositories master branch. Changes can be merged back to the master branch of whichever account it was branched off of.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  A: You are able to view the history of both copies, comparing and/or merging them before pushing to GitHub.
