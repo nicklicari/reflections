@@ -1,0 +1,36 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+  A: I could see the changed lines of the two files in small bites to be able to review and locate the changes quickly.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+  A: I'll be able to review progressive changes, to see what was done differently in the past and how my 'style' has improved. Also, I'll be able to revert to previous versions when and undesirable effect is introduced.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+  A: Pros
+  - Smaller history list to review to find specific changes
+  - Only meaningful changes are saved
+  - Able to add comments detailing what was changed
+  
+    Cons:
+  - Can forget to commit
+  - Everyone working on the same file must be disciplined and use best practices of when to commit, and how to comment
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+  A: If restoring back to a previous state, it is simpler to only have to restore a single checkpoint, containing all of the files, than to look through each file to see when it was last changed.
+  For a Google Doc style auto save, usually each file is independent of each other so it would not be likely that a specific point in time for multiple files would need to be restored simultaneously.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+  A: Git log will show every commit in history.  Git diff will allow you to compare any two commits to see what changed
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+  A: I'll always have a 'bread crumbs' trail to go back through my changes to see what went wrong.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+  A: There are many things that I think would benefit from using git, such as all the edits I just did to .bashrc!!!  I need to know more though before I start :)
+
