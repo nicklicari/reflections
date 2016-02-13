@@ -21,3 +21,7 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
   A: I would create a shared folder on Dropbox, etc, and have multiple users edit the same files.  It would be easier to sync changes because they are automatic, but would not be specific, intentional changes with comments on what was done.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  A: Separate branches are useful for tooling around, trying out new features, while not affecting the history of the master (production) branch until you're ready to combine them.
